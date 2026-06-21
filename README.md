@@ -8,8 +8,7 @@ Forecasting models are powerful, but most NGO decision-makers don't open Jupyter
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](dashboard_screens<img width="1187" height="732" alt="Dashboard_Screenshot" src="https://github.com/user-attachments/assets/752fd1a6-8268-47ad-8f58-1b6d7f5d6f18" />
-hot.png)
+<img width="1187" height="732" alt="Dashboard_Screenshot" src="https://github.com/user-attachments/assets/752fd1a6-8268-47ad-8f58-1b6d7f5d6f18" />
 
 
 ## Key Metrics Tracked
