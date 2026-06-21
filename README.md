@@ -33,7 +33,7 @@ hot.png)
 | Data Validation | Duplicate detection, locale-aware date parsing, whitespace/casing normalization |
 
 
-## Notable Debugging Challenges<img width="1187" height="732" alt="Screenshot 2026-06-21 193644" src="https://github.com/user-attachments/assets/8ba5fb80-8462-4412-b67e-43441da7e5da" />
+## Notable Debugging Challenges 
 
 
 A few real-world data issues solved during this build (documented because debugging is half the skill):
